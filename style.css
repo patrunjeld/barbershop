@@ -1,5 +1,5 @@
 :root {
-    --link-color: #fff;
+    --link-color: #ffffff;
 }
 
 .global-header {
@@ -7,7 +7,7 @@
 }
 
 .global-header .main-navigation a,
-.global-header .main-navigation: a:visited {
+.global-header .main-navigation a:visited {
     color: var(--link-color)
 }
 
